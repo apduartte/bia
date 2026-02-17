@@ -1,4 +1,5 @@
 2.1 Contexto Técnico
+
 O objetivo deste projeto é estruturar uma oferta de n8n self-hosted na AWS, viável comercialmente, tecnicamente sustentável e replicável em múltiplas contas.
 A solução deve atender dois níveis de maturidade operacional:
 Modelo 1 – Implantação econômica
